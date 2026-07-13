@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 )
 
 ##### 📊My Github Stats
-![Rofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=RofiFadlurrahman&show_icons=true&theme=synthwave)
+![Damianus's GitHub stats](https://github-readme-stats.vercel.app/api?username=RofiFadlurrahman&show_icons=true&theme=synthwave)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RofiFadlurrahman&theme=radical&no-frame=false&no-bg=false&margin-w=4)
