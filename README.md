@@ -1,12 +1,11 @@
-## Hi Bro, I'm Rofi Fadlurrahman 👋
+## Hi Bro, I'm Damianus Arung👋
 
 
- ![alt text](image.png)
 
 
 
 <!--
-**RofiFadlurrahman/RofiFadlurrahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Damianus Arung/Damianus Arung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
